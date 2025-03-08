@@ -22,7 +22,7 @@ This XML layout is for an Android pizza menu, displaying images, descriptions, a
 4. Modify text sizes, margins, and colors as needed.
 
 ## Screenshot
-Below is an image of the rendered layout representing this design.
+Below is a preview of the layout created from this design.
 
-![image alt](https://github.com/AilaArshad/Instagram/blob/7422282e0041847cab525b36e8b5e802016a8c18/Preview.png)
+![image alt](https://github.com/AilaArshad/Food_Panda_Application_Design/blob/a9545700d622f4182f146b14c40083dfb7c3a21e/Preview%20(2).png)
 
